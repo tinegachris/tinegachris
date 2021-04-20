@@ -10,11 +10,15 @@ Hey, this is Chris - your guru 😊 - an electrical and electronic engineering �
 
 🤔 I’m looking for help with circuit design troubleshooting and testing methods.
 
-📫 How to reach me: Email, Twitter, LinkedIn
+📫 How to reach me: Email, Twitter, LinkedIn.
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I can cram🧠 🔟 digits with a 2️⃣ seconds ⏲ glance 👀!
+⚡ Fun fact: I can cram🧠 a 🔟 digits number with a 2️⃣ seconds ⏲ glance 👀!
+
+## Objective 🥅
+
+- Delve into electronic design and research work.
 
 <!--
 **tinegachris/tinegachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
