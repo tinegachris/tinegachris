@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Hey, this is Chris - your guru 😊 - an electrical and electronic engineering 👨‍💻 student 👨‍🎓. I am into electronics ⚡🔌. Here is where I bring source control into it 👨‍🔬.
 
@@ -16,7 +16,7 @@ Hey, this is Chris - your guru 😊 - an electrical and electronic engineering �
 
 - ⚡ Fun fact: I can cram🧠 a 🔟 digits number with a 2️⃣ seconds ⏲ glance 👀!
 
-## Objective 🥅
+### Objective 🥅
 
 - Delve into electronic design and research work.
 
