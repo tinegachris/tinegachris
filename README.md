@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+Hey, this is Chris - your guru 😊 - an electrical and electronic engineering 👨‍💻 student 👨‍🎓. I am into electronics ⚡🔌. Here is where I bring source control into it 👨‍🔬.
+
+🔭 I’m currently working on solar pump controllers and data loggers at KickStart Intl.
+
+🌱 I’m currently learning in-system programming techniques (ISP) with AVR microcontrollers to manipulate embedded systems.
+
+👯 I’m looking to collaborate on the electronic projects within my scope.
+
+🤔 I’m looking for help with circuit design troubleshooting and testing methods.
+
+📫 How to reach me: Email, Twitter, LinkedIn
+                    [Profile: github.com/tinegachris]
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I can cram🧠 🔟 digits with a 2️⃣ seconds ⏲ glance 👀!
+
 <!--
 **tinegachris/tinegachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +29,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me: the email is on my profile
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can cram 16 digits with a 2 seconds glance!
+- ⚡ Fun fact: I can cram🧠 🔟 digits with a 2️⃣ seconds ⏲ glance 👀!
 -->
