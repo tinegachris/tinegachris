@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hey, this is Chris - your guru 😊 - an electrical and electronic engineering 👨‍💻 student 👨‍🎓. I am into electronics ⚡🔌. Here is where I bring source control into it 👨‍🔬.
+This is Chris - your guru 😊 - an electrical and electronic engineering 👨‍💻 student 👨‍🎓. I am into electronics ⚡🔌. Here is where I bring source control into it 👨‍🔬.
 
 - 🔭 I’m currently working on solar pump controllers and data loggers at KickStart Intl.
 
@@ -19,6 +19,16 @@ Hey, this is Chris - your guru 😊 - an electrical and electronic engineering �
 ### Objective 🥅
 
 - Delve into electronic design and research work.
+
+## Interests ✨
+
+- Hardware hacking, quantum computing, electronic design, cybersecurity
+
+## Social Media 🔗
+
+Just search 🔍 "Chrispine Tinega" 😂
+
+Let's connect! 🎉🥳
 
 <!--
 **tinegachris/tinegachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
