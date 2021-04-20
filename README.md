@@ -11,7 +11,6 @@ Hey, this is Chris - your guru 😊 - an electrical and electronic engineering �
 🤔 I’m looking for help with circuit design troubleshooting and testing methods.
 
 📫 How to reach me: Email, Twitter, LinkedIn
-                    [Profile: github.com/tinegachris]
 
 😄 Pronouns: he/him
 
