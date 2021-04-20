@@ -20,15 +20,15 @@ This is Chris - your guru 😊 - an electrical and electronic engineering 👨�
 
 - Delve into electronic design and research work.
 
-## Interests ✨
+### Interests ✨
 
 - Hardware hacking, quantum computing, electronic design, cybersecurity
 
-## Social Media 🔗
+### Social Media 🔗
 
 Just search 🔍 "Chrispine Tinega" 😂
 
-Let's connect! 🎉🥳
+#Let's connect! 🎉🥳
 
 <!--
 **tinegachris/tinegachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
