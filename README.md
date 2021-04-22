@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is Chris - your guru 😊 - an electrical and electronic engineering 👨‍💻 student 👨‍🎓. I am into electronics ⚡🔌. Here is where I bring source control into it 👨‍🔬.
+This is Chris - your guru 😊. I am an electrical and electronic engineering student 👨‍🎓 into electronics ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
 
 - 🔭 I’m currently working on solar pump controllers and data loggers at KickStart Intl.
 
@@ -18,7 +18,7 @@ This is Chris - your guru 😊 - an electrical and electronic engineering 👨�
 
 ### Objective 🥅
 
-- Delve into electronic design and research work.
+- To delve into electronic design and research work.
 
 ### Interests ✨
 
