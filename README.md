@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is Chris. I am an EEE student 👨‍🎓 into electronics and design ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
+I am an EEE student 👨‍🎓 into electronics and design ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
 
 - 🔭 I’m currently working on an automated water metering and management system for my final year project.
 
