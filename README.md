@@ -12,7 +12,7 @@ I am an EEE student 👨‍🎓 into electronics and design ⚡🔌. Here is whe
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I can cram🧠 a 🔟 digits number with a 2️⃣ seconds ⏲ glance 👀!
+- ⚡ Fun fact: I would want to be featured on the Moore's Lobby Podcast someday.
 
 ### Objective 🥅
 
@@ -20,7 +20,7 @@ I am an EEE student 👨‍🎓 into electronics and design ⚡🔌. Here is whe
 
 ### Interests ✨
 
-- Hardware Hacking, IoT, Quantum Computing, Embedded Systems Design
+- Hardware hacking, IoT, Quantum computing, Embedded systems design
 
 ### Socials 🔗
 [![twitter](https://user-images.githubusercontent.com/72353423/134442094-05802ea4-66b4-4fa1-ba9f-f11cc538a58b.png)](https://twitter.com/tinegachris "Twitter")  [![dev](https://user-images.githubusercontent.com/72353423/134442418-c52bb7a4-6733-469b-8c97-88ad7e67760a.png)](https://dev.to/tinegachris "DEV Community") [![medium](https://user-images.githubusercontent.com/72353423/134442609-3b574b8c-ee1f-4576-a718-a6688fcc018d.png)
