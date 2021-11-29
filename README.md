@@ -22,7 +22,7 @@ I am an EEE student 👨‍🎓 into electronics and design ⚡🔌. Here is whe
 
 - Hardware Hacking, IoT, Quantum Computing, Embedded Systems Design
 
-### Social Media 🔗
+### Socials 🔗
 [![twitter](https://user-images.githubusercontent.com/72353423/134442094-05802ea4-66b4-4fa1-ba9f-f11cc538a58b.png)](https://twitter.com/tinegachris "Twitter")  [![dev](https://user-images.githubusercontent.com/72353423/134442418-c52bb7a4-6733-469b-8c97-88ad7e67760a.png)](https://dev.to/tinegachris "DEV Community") [![medium](https://user-images.githubusercontent.com/72353423/134442609-3b574b8c-ee1f-4576-a718-a6688fcc018d.png)
 ](https://tinegachris.medium.com/ "Medium") [![instagram](https://user-images.githubusercontent.com/72353423/134442297-bc97de9d-4f34-4a27-9e5b-05c9a6ab28af.png)](https://www.instagram.com/tinega_chris "Instagram")   [![linkedin](https://user-images.githubusercontent.com/72353423/134442351-5e6b5fc9-71f1-4f3b-8cbc-e8a08a4355f4.png)](https://www.linkedin.com/in/tinegachris/ "LinkedIn")   
 #### 🥳 Let's Connect!🎉
