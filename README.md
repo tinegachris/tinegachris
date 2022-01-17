@@ -2,7 +2,7 @@
 
 ![cover photo](https://user-images.githubusercontent.com/72353423/145395596-5ed93b49-2a64-477b-b087-7ce4d8f5eb33.png)
 
-I am an EEE student 👨‍🎓 into electronics and design ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
+I am a technical sales engineer 👨‍🎓 into electronics and design ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
 
 - 🔭 I’m currently working on an automated water metering and management system for my final year project.
 
