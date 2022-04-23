@@ -2,7 +2,7 @@
 
 ![cover photo](https://user-images.githubusercontent.com/72353423/145395596-5ed93b49-2a64-477b-b087-7ce4d8f5eb33.png)
 
-I am a technical sales engineer 👨‍🎓 into electronics design and IoT ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
+I am an electrical/electronics engineer 👨‍🎓 into electronics design, IoT and hardware hacking ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
 
 - 🔭 I’m currently working on automating renewable energy smart grids to enable monitoring, analysis and control using IoT.
 
