@@ -10,8 +10,6 @@ I am an electrical/electronics engineer 👨‍🎓 into electronics design, IoT
 
 - 👯 I’m hoping to collaborate on any projects within my scope.
 
-- 😄 Pronouns: he/him
-
 - ⚡ Fun fact: I would want to be featured on the Moore's Lobby Podcast someday.
 
 ### Objective 🥅
