@@ -1,4 +1,4 @@
-![cover photo](https://user-images.githubusercontent.com/72353423/145395596-5ed93b49-2a64-477b-b087-7ce4d8f5eb33.png)
+![social cover](https://user-images.githubusercontent.com/72353423/189827747-8af1997e-b57c-4533-a993-847a1c647be1.png)
 
 # Hi there 👋
 
@@ -6,7 +6,7 @@ I am an electrical/electronics engineer 👨‍🎓 into electronics design, IoT
 
 - 🔭 I’m currently working on automating renewable energy smart grids to enable monitoring, analysis and control using IoT.
 
-- 🌱 I’m currently learning IoT solutions using LoRaWAN®.
+- 🌱 I’m currently learning embeeded Linux using Toradex Colibri VF50.
 
 - 👯 I’m hoping to collaborate on any projects within my scope.
 
