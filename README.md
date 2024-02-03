@@ -2,9 +2,9 @@
 
 I am an electrical/electronics engineer 👨‍🎓 into electronics design, IoT and hardware hacking ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
 
-- 🔭 I’m currently working on automating renewable energy smart grids to enable monitoring, analysis and control using IoT.
+- 🔭 I’m currently working with single board computers to monitor and stabilize renewable energy projects across Africa.
 
-- 🌱 I’m currently learning embedded Linux using Toradex Colibri VF50.
+- 🌱 I’m currently learning embedded Linux.
 
 - 👯 I’m hoping to collaborate on any projects within my scope.
 
