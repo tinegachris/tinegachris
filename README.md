@@ -2,9 +2,10 @@
 
 I am an electrical/electronics engineer 👨‍🎓 into electronics design, IoT and hardware hacking ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
 
-- 🔭 I’m currently working with single board computers to monitor and stabilize renewable energy projects across Africa.
+<!--
+- 🔭 I’m currently working with embedded linux systems to monitor and stabilize renewable energy projects across Africa.
 
-- 🌱 I’m currently learning embedded Linux.
+- 🌱 I’m currently learning 
 
 - 👯 I’m hoping to collaborate on any projects within my scope.
 
@@ -18,7 +19,7 @@ I am an electrical/electronics engineer 👨‍🎓 into electronics design, IoT
 
 - Hardware hacking, IoT, Quantum computing, Embedded systems design
  
-<!--
+
 **tinegachris/tinegachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
