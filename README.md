@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I am an electrical/electronics engineer 👨‍🎓 into electronics design, IoT and hardware hacking ⚡🔌. Here is where I bring source control into the stuff I do 👨‍🔬.
+I am an electrical/electronics engineer 👨‍🎓 specializing in IoT, energy systems and hardware hacking ⚡🔌. This is where I bring source control into the projects I work on 👨‍🔬.
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&hide=jupyter%20notebook)](https://github.com/tinegachris/tinegachris)
+![Tinegachris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&hide=jupyter%20notebook)](https://github.com/tinegachris/tinegachris)
 
 <!--
-- 🔭 I’m currently working with embedded linux systems to monitor and stabilize renewable energy projects across Africa.
+- 🔭 I’m currently working with embedded Linux systems to monitor and stabilize renewable energy projects across Africa.
 
 - 🌱 I’m currently learning 
 
