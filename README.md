@@ -8,8 +8,8 @@ I am **Chrispine**, an **Electrical and Electronics Engineer** specializing in *
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=radical&hide=jupyter%20notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
 
 ---
 
