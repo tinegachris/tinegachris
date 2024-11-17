@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to My GitHub
+# Hi there 👋 Welcome to My GitHub!
 
 ![cover_photo](https://github.com/user-attachments/assets/2589faaa-f8b0-4003-b55f-2289f7ee63c9)
 
@@ -42,7 +42,7 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 - **LinkedIn**: [Chrispine Tinega](https://linkedin.com/in/tinegachris)
 - **Twitter**: [@tinegachris](https://twitter.com/tinegachris)
 - **Website/Blog**: [Visit My Portfolio](https://chrispinetinega.com)
-- **Email**: 📧 _[your-email@example.com](mailto:hello@chrispinetinega.com)_
+- **Email**: 📧 _[hello@chrispinetinega.com](mailto:hello@chrispinetinega.com)_
 
 ---
 
