@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to My GitHub!
+# Hi there 👋
 
 ![cover_photo](https://github.com/user-attachments/assets/2589faaa-f8b0-4003-b55f-2289f7ee63c9)
 
