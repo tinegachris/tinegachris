@@ -8,11 +8,6 @@ I am **Chrispine**, an **Electrical and Electronics Engineer** specializing in *
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
-
----
-
 ## 🌟 **About Me**
 
 - **🔭 Current Work**: Enhancing **embedded Linux systems** to monitor and stabilize **renewable energy projects** across Africa.
@@ -34,6 +29,12 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 - **IoT**: Building connected ecosystems for energy efficiency.
 - **Quantum Computing**: Exploring futuristic computing paradigms.
 - **Embedded Systems Design**: Crafting robust and scalable solutions for energy automation.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegachris&theme=default)
 
 ---
 
