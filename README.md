@@ -32,17 +32,59 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegachris&theme=default)
+## 🛠️ **Technologies & Tools**
+
+### Programming Languages
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+
+### Frameworks and Libraries
+![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=rtos)
+![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat&logo=mqtt)
+![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros)
+
+### Tools and Platforms
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+### CAD and Design
+![Ki-CAD](https://img.shields.io/badge/-KiCAD-05122A?style=flat&logo=kicad)
+![Altium](https://img.shields.io/badge/-Altium-05122A?style=flat&logo=altium)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk)
+
+### Automation
+![Modbus](https://img.shields.io/badge/-Modbus-05122A?style=flat&logo=modbus)
+![M-Bus](https://img.shields.io/badge/-M--Bus-05122A?style=flat&logo=mbus)
+![CAN](https://img.shields.io/badge/-CAN-05122A?style=flat&logo=can)
+![KNX](https://img.shields.io/badge/-KNX-05122A?style=flat&logo=knx)
 
 ---
 
-## 📫 **Let's Connect!**
+## 📊 **Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegachris&theme=default)
+[![wakatime](https://wakatime.com/badge/user/3ce439a6-8be8-47be-9465-ada7b3dacf7e.svg)](https://wakatime.com/@3ce439a6-8be8-47be-9465-ada7b3dacf7e)
+![Coding activity](https://wakatime.com/share/@tinegachris/5fc5469d-bd18-42df-831e-50d17e69dfe2.svg)
+
+---
+
+## 📫 **Socials**
 
 - **LinkedIn**: [Chrispine Tinega](https://linkedin.com/in/tinegachris)
 - **Twitter**: [@tinegachris](https://twitter.com/tinegachris)
-- **Website/Blog**: [Visit My Portfolio](https://chrispinetinega.com)
+- **Website**: [Visit My Portfolio](https://chrispinetinega.com)
 - **Email**: 📧 _[hello@chrispinetinega.com](mailto:hello@chrispinetinega.com)_
 
 ---
