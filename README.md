@@ -4,11 +4,11 @@
 
 I am **Chrispine**, an **Electrical and Electronics Engineer** specializing in **IoT solutions and renewable energy systems**. I use technology to tackle real-world challenges in the energy sector, from smart mini-grids to cutting-edge embedded systems.
 
-> _"Technology is not just a tool; it’s a bridge to a sustainable future."_
+> _"Harnessing the power of technology to create smarter, sustainable energy solutions for a brighter future."_
 
 ---
 
-## 🌟 **About Me**
+## 🌟 About Me
 
 - **🔭 Current Work**: Enhancing **embedded Linux systems** to monitor and stabilize **renewable energy projects** across Africa.
 - **🌱 Learning**: Exploring **PyPSA** for energy system modeling and optimization.
@@ -17,13 +17,13 @@ I am **Chrispine**, an **Electrical and Electronics Engineer** specializing in *
 
 ---
 
-## 🥅 **Objective**
+## 🥅 Objective
 
 To deepen my expertise in **electronic hardware and software design**, **IoT security**, and create smarter, more resilient energy systems.
 
 ---
 
-## ✨ **Interests**
+## ✨ Interests
 
 - **Hardware Hacking**: Pushing the boundaries of technology.
 - **IoT**: Building connected ecosystems for energy efficiency.
@@ -32,7 +32,7 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🛠️ Technologies & Tools
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
@@ -70,7 +70,7 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 
 ---
 
-## 📊 **Stats**
+## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
@@ -80,7 +80,7 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 
 ---
 
-## 📫 **Socials**
+## 📫 Socials
 
 - **LinkedIn**: [Chrispine Tinega](https://linkedin.com/in/tinegachris)
 - **Twitter**: [@tinegachris](https://twitter.com/tinegachris)
