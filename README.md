@@ -82,7 +82,7 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegachris&theme=default)
+<!-- ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegachris&theme=default) -->
 
 [![wakatime](https://wakatime.com/badge/user/3ce439a6-8be8-47be-9465-ada7b3dacf7e.svg)](https://wakatime.com/@3ce439a6-8be8-47be-9465-ada7b3dacf7e)
 ![Coding activity](https://wakatime.com/share/@tinegachris/5fc5469d-bd18-42df-831e-50d17e69dfe2.svg)
