@@ -40,41 +40,55 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
 ### Frameworks and Libraries
 
-![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=rtos)
 ![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat&logo=mqtt)
 ![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros)
 ![DDS](https://img.shields.io/badge/-DDS-05122A?style=flat&logo=dds)
+![Zephyr](https://img.shields.io/badge/-Zephyr-05122A?style=flat&logo=zephyrproject)
+![PyPSA](https://img.shields.io/badge/-PyPSA-05122A?style=flat&logo=python)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
+![Paho MQTT](https://img.shields.io/badge/-Paho%20MQTT-05122A?style=flat&logo=eclipse-mosquitto)
+![Node-RED](https://img.shields.io/badge/-Node--RED-05122A?style=flat&logo=node-red)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)
 
 ### Tools and Platforms
 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![GitHub](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=mathworks)
+![KiCad](https://img.shields.io/badge/-KiCad-05122A?style=flat&logo=kicad)
+![Eagle](https://img.shields.io/badge/-Eagle-05122A?style=flat&logo=autodesk)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi)
+![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics)
+![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)
+![Siemens](https://img.shields.io/badge/-Siemens-05122A?style=flat&logo=siemens)
+![Xilinx](https://img.shields.io/badge/-Xilinx-05122A?style=flat&logo=xilinx)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 
-### CAD and Design
-
-![Ki-CAD](https://img.shields.io/badge/-KiCAD-05122A?style=flat&logo=kicad)
-![Altium](https://img.shields.io/badge/-Altium-05122A?style=flat&logo=altium)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk)
-
 ### Protocols
 
 ![Modbus](https://img.shields.io/badge/-Modbus-05122A?style=flat&logo=modbus)
-![M-Bus](https://img.shields.io/badge/-M--Bus-05122A?style=flat&logo=mbus)
 ![CAN](https://img.shields.io/badge/-CAN-05122A?style=flat&logo=can)
-![KNX](https://img.shields.io/badge/-KNX-05122A?style=flat&logo=knx)
+![SPI](https://img.shields.io/badge/-SPI-05122A?style=flat&logo=spi)
+![I2C](https://img.shields.io/badge/-I2C-05122A?style=flat&logo=i2c)
+![UART](https://img.shields.io/badge/-UART-05122A?style=flat&logo=uart)
+![BLE](https://img.shields.io/badge/-BLE-05122A?style=flat&logo=bluetooth)
+![LoRa](https://img.shields.io/badge/-LoRa-05122A?style=flat&logo=lora)
+![NB-IoT](https://img.shields.io/badge/-NB--IoT-05122A?style=flat&logo=nb-iot)
+![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat&logo=mqtt)
+![DDS](https://img.shields.io/badge/-DDS-05122A?style=flat&logo=dds)
 
 ---
 
@@ -82,10 +96,7 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&theme=default&hide=jupyter%20notebook)
-<!-- ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegachris&theme=default) -->
-
 [![wakatime](https://wakatime.com/badge/user/3ce439a6-8be8-47be-9465-ada7b3dacf7e.svg)](https://wakatime.com/@3ce439a6-8be8-47be-9465-ada7b3dacf7e)
-![Coding activity](https://wakatime.com/share/@tinegachris/5fc5469d-bd18-42df-831e-50d17e69dfe2.svg)
 
 ---
 
@@ -99,26 +110,3 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 ---
 
 Thanks for stopping by! I’m always looking to collaborate on exciting **IoT**, **ML**, and **energy automation** projects. Feel free to connect! 🌍
-
-<!--
-# Hi there 👋
-
-[cover_photo](https://github.com/user-attachments/assets/2589faaa-f8b0-4003-b55f-2289f7ee63c9)
-
-I am an electrical and electronics engineer specializing in IoT and energy systems. Here, I implement source control in my projects.
-
-[Tinegachris's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinegachris&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinegachris&layout=compact&hide=jupyter%20notebook)](https://github.com/tinegachris/tinegachris)
-
-**tinegachris/tinegachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: the email is on my profile
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can cram 10 digits with a 2 seconds glance!
--->
