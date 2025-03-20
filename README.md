@@ -104,9 +104,10 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 
 - **LinkedIn**: [Chrispine Tinega](https://linkedin.com/in/tinegachris)
 - **Twitter**: [@tinegachris](https://twitter.com/tinegachris)
-- **Website**: [Visit My Portfolio](https://chrispinetinega.com)
-- **Email**: _[hello@chrispinetinega.com](mailto:hello@chrispinetinega.com)_
+- **BlueSky**: [@chrispinetinega.com](https://bsky.app/profile/chrispinetinega.com)
+- **Email**: [hello@chrispinetinega.com](mailto:hello@chrispinetinega.com)
+- **Website**: [chrispinetinega.com](https://chrispinetinega.com)
 
 ---
 
-Thanks for stopping by! I’m always looking to collaborate on exciting **IoT**, **ML**, and **energy automation** projects. Feel free to connect! 🌍
+Thanks for stopping by! I’m always looking to collaborate on exciting **IoT**, **data science**, **ML**, and **energy-related** projects. Feel free to connect! 🌍
