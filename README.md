@@ -42,19 +42,6 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
-### Frameworks and Libraries
-
-![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat&logo=mqtt)
-![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros)
-![DDS](https://img.shields.io/badge/-DDS-05122A?style=flat&logo=dds)
-![Zephyr](https://img.shields.io/badge/-Zephyr-05122A?style=flat&logo=zephyrproject)
-![PyPSA](https://img.shields.io/badge/-PyPSA-05122A?style=flat&logo=python)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
-![Paho MQTT](https://img.shields.io/badge/-Paho%20MQTT-05122A?style=flat&logo=eclipse-mosquitto)
-![Node-RED](https://img.shields.io/badge/-Node--RED-05122A?style=flat&logo=node-red)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)
-
 ### Tools and Platforms
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -63,13 +50,10 @@ To deepen my expertise in **electronic hardware and software design**, **IoT sec
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=mathworks)
-![KiCad](https://img.shields.io/badge/-KiCad-05122A?style=flat&logo=kicad)
-![Eagle](https://img.shields.io/badge/-Eagle-05122A?style=flat&logo=autodesk)
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi)
 ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics)
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)
-![Siemens](https://img.shields.io/badge/-Siemens-05122A?style=flat&logo=siemens)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-05122A?style=flat&logo=xilinx)
 
 ### Databases
